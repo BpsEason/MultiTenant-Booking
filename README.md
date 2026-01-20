@@ -200,7 +200,7 @@ class ServiceResource extends Resource
 1. Clone 專案
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/BpsEason/MultiTenant-Booking.git
     cd MultiTenant-Booking
     ```
 
